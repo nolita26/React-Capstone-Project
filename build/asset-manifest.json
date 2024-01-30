@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40ea02db.css",
+    "main.js": "/static/js/main.c01df6a3.js",
+    "static/js/787.d3a1d5e4.chunk.js": "/static/js/787.d3a1d5e4.chunk.js",
+    "static/media/food1.png": "/static/media/food1.cf22ea3785b35d4eea84.png",
+    "static/media/food5.jpeg": "/static/media/food5.47717fbc1b9f0e72382e.jpeg",
+    "static/media/lemon-dessert.webp": "/static/media/lemon-dessert.6af142378d3f539c7ecb.webp",
+    "static/media/bruschetta.jpeg": "/static/media/bruschetta.b0415dd9cd625aa27e44.jpeg",
+    "static/media/greek-salad.webp": "/static/media/greek-salad.0630522a827a5188a66d.webp",
+    "static/media/food4.webp": "/static/media/food4.aef154ce876c762e864c.webp",
+    "static/media/food2.jpeg": "/static/media/food2.0dcd90e2c8fd640454bf.jpeg",
+    "static/media/menu.webp": "/static/media/menu.9b7e092be47f16ae049f.webp",
+    "static/media/food3.jpeg": "/static/media/food3.90486b3529cd6d885d9a.jpeg",
+    "static/media/Asset 9@4x.png": "/static/media/Asset 9@4x.85cc8ff1c3a5912d9838.png",
+    "static/media/Asset 16@4x.png": "/static/media/Asset 16@4x.d4cae6fac8384c2dae04.png",
+    "index.html": "/index.html",
+    "main.40ea02db.css.map": "/static/css/main.40ea02db.css.map",
+    "main.c01df6a3.js.map": "/static/js/main.c01df6a3.js.map",
+    "787.d3a1d5e4.chunk.js.map": "/static/js/787.d3a1d5e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ea02db.css",
+    "static/js/main.c01df6a3.js"
+  ]
+}
